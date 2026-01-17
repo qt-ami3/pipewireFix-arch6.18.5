@@ -5,3 +5,7 @@ this program is unoptimized and used system() to execute system command from the
 ## quirks:
 
 resets volume when media stops playing, personally as someone who works with audio with all kinds of recording qaulity this is a feature but you probably will not enjoy it.
+
+initial startup of apps takes longer.
+
+volume randomly reverts to default level.

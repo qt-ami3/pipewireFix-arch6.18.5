@@ -1,3 +1,5 @@
+not a serious fix, should not use as a permanent fix.
+
 only works if restarting pipewire is a temp fix for ur system.
 
 ## WARNING 

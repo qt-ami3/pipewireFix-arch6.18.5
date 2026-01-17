@@ -1,3 +1,5 @@
+only works if restarting pipewire is a temp fix for ur system.
+
 ## WARNING 
 
 this program is unoptimized and used system() to execute system command from the program, verify code yourelf before using.
